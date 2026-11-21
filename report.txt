@@ -1,0 +1,5 @@
+LEARNER REPORT
+Total learners: 0
+Passed: 0
+Failed: 0
+Average score: 0
